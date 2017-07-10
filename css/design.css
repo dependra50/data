@@ -1,0 +1,33 @@
+div{
+background-color:#ffffff;
+
+}
+li{  border:2px solid white;
+    display:inline;
+   padding-right:20px;
+}
+div img{
+	margin-top:4px;
+    height:80px;
+}
+ul{
+	float:right;
+}
+.c{
+	float:right;
+	width:700px;
+}
+p1 img{
+	width:633px;
+	height:450px;
+}
+ a:hover{
+	 text-decoration:underline;
+	color:#567290;
+	font-size:20px;
+	
+}
+a{
+	color:#999999;
+	text-decoration:none;
+}
